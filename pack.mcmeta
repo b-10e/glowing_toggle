@@ -1,0 +1,11 @@
+{
+	"id": "xzg",
+	"pack": {
+		"description": "Glowing Toggle Datapack: by xokz",
+		"supported_formats": {
+			"min_inclusive": 88,
+			"max_inclusive": 121
+		},
+		"pack_format": 15
+	}
+}

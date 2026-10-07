@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:entity_properties",
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"effects": {
+			"minecraft:glowing": {
+				"duration": {
+					"min": 0,
+					"max": 20
+				}
+			}
+		}
+	}
+}
