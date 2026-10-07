@@ -1,11 +1,9 @@
 {
 	"id": "xzg",
 	"pack": {
-		"description": "Glowing Toggle Datapack: by xokz",
-		"supported_formats": {
-			"min_inclusive": 88,
-			"max_inclusive": 121
-		},
+		"description": [{"text":"xokz's Glowing Toggle","color":"gold"},{"text":" | ","color":"dark_gray"},{"text":"v1.2.1","color":"gray"}],
+		"min_format": 88,
+		"max_format": 121,
 		"pack_format": 15
 	}
 }
