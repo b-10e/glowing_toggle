@@ -10,6 +10,21 @@ Run `/trigger glowing`
 
 ----
 
+<details>
+<summary>Admin Commands</summary>
+
+- To lock a players ability to toggle glowing, run `/execute as <player> run function glowing:admin/lock_trigger`
+
+- To unlock a players ability to toggle glowing, run `/execute as <player> run function glowing:admin/unlock_trigger`
+
+- To make a player glow, run `/execute as <player> run function glowing:admin/make_glow`
+
+- To make a player stop glowing, run `/execute as <player> run function glowing:admin/stop_glow`
+  
+</details>
+
+----
+
 Follows the [Smithed Datapack Conventions](https://docs.smithed.dev/conventions/)
 
 No generative AI was used in this project in any capacity.
